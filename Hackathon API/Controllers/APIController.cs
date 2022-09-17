@@ -9,6 +9,5 @@ namespace Hackathon_API.Controllers
 {
     public class APIController : ApiController
     {
-      //dsgfdgdf
     }
 }
